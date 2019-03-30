@@ -1,0 +1,21 @@
+{
+  "earn": false, 
+  "explore": [
+    10007, 
+    19002, 
+    19003, 
+    13036
+  ], 
+  "admob": true, 
+  "EXPLORE": {
+    "version": "2.9.4", 
+    "ignore": [
+      10007, 
+      19002, 
+      19003, 
+      13036
+    ],
+    "more": false	
+  }, 
+  "fban": true
+}
