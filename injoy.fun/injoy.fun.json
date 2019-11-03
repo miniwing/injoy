@@ -1,1 +1,1 @@
-{"earn":true,"admob":true,"EXPLORE":{"ignore":[10007,19002,19003,13036],"more":true},"version":"3.0.0","fban":true}
+{"POST":true,"admob":true,"paytm":false,"version":"3.0.9","EXPLORE":{"more":true,"ignore":[10007,19002,19003,13036]},"earn":false,"GAMEs":{"Tik.Aurora":"https://itunes.apple.com/app/id1431392906?mt=8","Tik.Ball":"https://itunes.apple.com/app/id1483976384?mt=8","Tik.Killer":"https://itunes.apple.com/app/id1475461041?mt=8"},"fban":true}
