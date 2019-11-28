@@ -1,1 +1,1 @@
-{"admob":true,"POST":true,"paytm":false,"version":"3.1.9","EXPLORE":{"more":false,"ignore":[10007,19002,19003,13036]},"earn":false,"GAMEs":[],"fban":true}
+{"admob":true,"POST":true,"fban":true,"version":"3.1.9","EXPLORE":{"ignore":[10007,19002,19003,13036],"more":false},"earn":false,"GAMEs":[],"paytm":false}
